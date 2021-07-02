@@ -1,0 +1,26 @@
+table {
+    border-collapse: collapse;
+}
+ 
+table th, table td {
+    padding: 5px;
+}
+
+#mapid { height: 180px; }
+
+#autocomplete-suggestions {
+  background-color: #fff;
+  border-bottom: 1px solid #d4d4d4;
+}
+.a_list{
+    text-decoration: none;
+    list-style: none;
+    color: #000;
+    font-size: 18px;
+    font-weight: 700;
+    padding: 20px auto;
+}
+.a_list:hover{
+
+    
+}
